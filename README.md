@@ -15,3 +15,6 @@
 <br /> 
 <br /> Please go look at my website for what I did with this code
 <br /> https://www.brooksbutlerdesign.com/coding-gallery
+
+<br />The trials and errors:
+<br />https://app.milanote.com/1OZpop1FxNuM2n?p=UC8sRjoNMMq
