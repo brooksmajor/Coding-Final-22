@@ -9,3 +9,6 @@
 <br /> 
 <br /> With each of the images there is a .json file with (x, y) values of the dot placememnt for that specific image. 
 <br /> I hope one day to collect the data based on the size of the dots as well as using the (x, y) data for a future project. 
+<br /> 
+<br /> I highly suggest opening this file in Google Collab and playing with the diffrent dot size and proportions. 
+<br /> I also organized the document into forms collapsing the code to better see the image. 
