@@ -12,3 +12,6 @@
 <br /> 
 <br /> I highly suggest opening this file in Google Collab and playing with the diffrent dot size and proportions. 
 <br /> I also organized the document into forms collapsing the code to better see the image. 
+<br /> 
+<br /> Please go look at my website for what I did with this code
+<br /> https://www.brooksbutlerdesign.com/coding-gallery
