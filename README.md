@@ -1,6 +1,7 @@
 # Brooks Butler Coding Final 2022
 <br /> Welcome to my final!
-<br /> For this project I created a series of 8 images that use recursion/tiling to generate random dot patterns.
+<br /> For this project I created a series of 8 images that use recursion/tiling with Google Colab Turtle to generate random dot patterns. 
+<br /> These images are few of many trials and errors. 
 <br /> I was inspired by half tone imagery with the dot patterns and learned how to use recursion for tiling from https://turtletoy.net/turtle/caf7a6e3c3#iterations=0,choice=1 
 <br /> 
 <br /> 
